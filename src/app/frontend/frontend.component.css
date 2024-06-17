@@ -1,0 +1,21 @@
+.container {
+    text-align: center; 
+    padding-top: 40px;
+    font-size: 40px;
+    
+   
+  }
+  .eligible{ text-align: left;
+    font-size: 30px;
+
+
+  }
+  .dot::before {
+    content: "\2022"; 
+    margin-right: 8px;
+    font-size: 20px;
+  }
+  .app{
+    font-size: 30px;
+    text-align: center;
+  }

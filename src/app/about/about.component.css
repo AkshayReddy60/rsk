@@ -1,0 +1,28 @@
+
+.card {
+    text-align: center;
+    font-size: 20px;
+    margin: 30%;
+    width:100%;
+    
+}
+
+.card-image {
+    width: 130px; 
+    height: 150px;
+  
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url("/assets/10.jpg");
+    
+    
+}
+
+.row {
+    width: 30%; 
+    margin: 20px;/* Adjust width as needed */
+}
+
+
